@@ -12,3 +12,4 @@ C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\refint\dioc.dll
 C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\dioc.pdb
 C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\dioc.genruntimeconfig.cache
 C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\ref\dioc.dll
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\dioc.sourcelink.json

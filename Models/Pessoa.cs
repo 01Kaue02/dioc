@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ex.Models
+namespace Exemplo.Models
 {
     public class Pessoa
     {
@@ -12,7 +12,7 @@ namespace Ex.Models
         public int Idade { get; set; }
         public void Apresentar()
         {
-            Console.WriteLine($"Meu nome é : {Nome}, Idade: {Idade}");
+            Console.WriteLine($"Meu nome é: {Nome}, Idade: {Idade}");
         }
     }
 }
