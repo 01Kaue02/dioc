@@ -1,0 +1,14 @@
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\dioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\dioc.AssemblyInfoInputs.cache
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\dioc.AssemblyInfo.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\dioc.csproj.CoreCompileInputs.cache
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\bin\Debug\net9.0\dioc.exe
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\bin\Debug\net9.0\dioc.deps.json
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\bin\Debug\net9.0\dioc.runtimeconfig.json
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\bin\Debug\net9.0\dioc.dll
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\bin\Debug\net9.0\dioc.pdb
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\dioc.dll
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\refint\dioc.dll
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\dioc.pdb
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\dioc.genruntimeconfig.cache
+C:\Users\kauel\OneDrive\Área de Trabalho\dioc\obj\Debug\net9.0\ref\dioc.dll
