@@ -1,14 +1,13 @@
 ﻿using Exemplo.Models;
-namespace Exemplo
+int quantidade = 10;
+
+int coompra = 11;
+
+if (quantidade >= coompra)
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Pessoa pessoa1 = new Pessoa();
-            pessoa1.Nome = "João";
-            pessoa1.Idade = 30;
-            pessoa1.Apresentar();
-        }
-    }
+    Console.WriteLine("Você pode comprar!");
+}
+else
+{
+    Console.WriteLine("Você não pode comprar!");
 }
