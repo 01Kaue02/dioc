@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ee9cca3c08905cd8db5270cc24d06e0004d6349")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09821d0fe13db985ac68cf0b337aca7c5cc21f7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("dioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
