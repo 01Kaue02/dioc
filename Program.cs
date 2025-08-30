@@ -5,22 +5,40 @@ int[] arrayInteiro = new int[3];
 arrayInteiro[0] = 72;
 arrayInteiro[1] = 64;
 arrayInteiro[2] = 50;
-
-
+Array.Resize(ref arrayInteiro, 10);
 
 for (int contador = 0; contador < arrayInteiro.Length; contador++)
 {
     Console.WriteLine($"Posição N {contador}- {arrayInteiro[contador]}");
 }
 
-Console.WriteLine("Percorrendo o Array com o FOREACH");
-int contadorforeach = 0;
-foreach (int valor in arrayInteiro)
-{
-    Console.WriteLine ($"Posição N  {contadorforeach}- {valor}");
-    contadorforeach++;
-    
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Console.WriteLine("Percorrendo o Array com o FOREACH");
+//int contadorforeach = 0;
+//foreach (int valor in arrayInteiro)
+//{
+//    Console.WriteLine ($"Posição N  {contadorforeach}- {valor}");
+//    contadorforeach++;
+//    
+//}
 
 
 
