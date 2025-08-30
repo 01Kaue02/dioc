@@ -1,16 +1,50 @@
 ﻿using dioc.Models;
 
-int[] arrayInteiro = new int[3];
 
-arrayInteiro[0] = 72;
-arrayInteiro[1] = 64;
-arrayInteiro[2] = 50;
-Array.Resize(ref arrayInteiro, 10);
+List<string> listaString = new List<string>();
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+listaString.Add("SC");
 
-for (int contador = 0; contador < arrayInteiro.Length; contador++)
-{
-    Console.WriteLine($"Posição N {contador}- {arrayInteiro[contador]}");
-}
+Console.WriteLine($"Itens na lista: {listaString.Count}- Capacidade atual: {listaString.Capacity}");
+
+listaString.Add("RJ");
+Console.WriteLine($"Itens na lista: {listaString.Count}- Capacidade atual: {listaString.Capacity}");
+
+Console.WriteLine($"Itens na lista: {listaString.Count}- Capacidade atual: {listaString.Capacity}");
+listaString.Remove("MG");
+Console.WriteLine($"Itens na lista: {listaString.Count}- Capacidade atual: {listaString.Capacity}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//int[] arrayInteiro = new int[3];
+//
+//arrayInteiro[0] = 72;
+//arrayInteiro[1] = 64;
+//arrayInteiro[2] = 50;
+//Array.Resize(ref arrayInteiro,arrayInteiro.Length * 2);
+//
+//for (int contador = 0; contador < arrayInteiro.Length; contador++)
+//{
+//    Console.WriteLine($"Posição N {contador}- {arrayInteiro[contador]}");
+//}
 
 
 
